@@ -1,0 +1,20 @@
+* {
+    background-color: black; 
+    color: greenyellow;
+}
+
+#tab {
+    margin-left: 40px;
+}
+
+#tabtab {
+    margin-left: 80px;
+}
+
+#tabtabtab {
+    margin-left: 120px;
+}
+
+#cursor {
+    font-size: 30px;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hackertyper",
+  "version": "1.0.0",
+  "description": "Fake Hack Anything",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Hack"
+  ],
+  "author": "Virej Dasani",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^11.2.0"
+  }
+}
